@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-def load_model(model_name: str="meta-llama/Llama-3.1-8B-Instruct"):
+def load_model(model_name: str="jasonjxh/llama3.1-8B-podcast-model"):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
