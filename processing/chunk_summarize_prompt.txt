@@ -1,0 +1,12 @@
+Your task is NOT to summarize. 
+Extract and rewrite the content in a compressed structured form, preserving all facts and data.
+
+Output fields:
+- Key claims:
+- Evidence/data:
+- Quotes:
+- Entities:
+- Numbers:
+- Causal statements:
+- Uncertainties:
+- Bias/assumptions:

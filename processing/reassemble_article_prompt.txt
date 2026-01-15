@@ -1,0 +1,5 @@
+Combine these structured extracts into a single compressed document 
+WITHOUT removing any numbers, named entities, causal relationships, or time references.
+The output should be chronological and densely written.
+Sentence length may be long.
+Verbosity is allowed if it protects detail.

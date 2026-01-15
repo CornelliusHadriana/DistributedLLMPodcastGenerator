@@ -1,0 +1,35 @@
+{
+  "_id": "ObjectId",
+  "job_id": "uuid-string",
+
+  "source": {
+    "type": "gmail | api",
+    "sender": "TLDR",
+    "subject": "TLDR AI — Jan 3",
+    "message_id": "gmail-message-id"
+  },
+
+  "input": {
+    "source_text": "...cleaned text...",
+    "prompt_type": "acquired | standard",
+    "model": "meta-llama/Llama-3.1-8B-Instruct"
+  },
+
+  "status": "queued | running | completed | failed",
+  "email_sent": "False | True",
+
+  "output": {
+    "script": null,
+    "tokens_generated": null,
+    "attachment_filename": null
+  },
+
+  "metrics": {
+    "created_at": "ISODate",
+    "started_at": null,
+    "completed_at": null,
+    "latency_sec": null
+  },
+
+  "error": null
+}

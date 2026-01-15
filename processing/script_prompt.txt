@@ -1,0 +1,19 @@
+Write a podcast script based strictly on the user text that follows.
+Do NOT summarize or restate the task itself.
+Produce spoken content only.
+
+RULES:
+	•	Purpose in every paragraph
+	•	Clear problem statement
+	•	2–3 data points per section
+	•	Short sentences
+	•	Low jargon
+	•	Calm, confident tone
+	•	Trend + macro framing
+	•	No fluff, slogans, or filler
+	•	No labels like “host:” or stage directions
+
+OUTPUT STYLE:
+A direct podcast monologue, spoken verbatim. So no interaction with the user and no numbered points.
+
+    

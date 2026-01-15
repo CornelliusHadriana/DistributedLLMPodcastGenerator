@@ -1,0 +1,180 @@
+SoftBank has fully funded $40 billion investment in OpenAI, sources tell CNBC
+Published Tue, Dec 30 20259:10 AM ESTUpdated Tue, Dec 30 20257:31 PM EST
+thumbnail
+Samantha Subin
+@samantha_subin
+Share
+Share Article via Facebook
+Share Article via Twitter
+Share Article via LinkedIn
+Share Article via Email
+Key Points
+SoftBank has completed its $40 billion investment commitment to OpenAI, sources told CNBC’s David Faber.
+CNBC reported in February that the Japanese firm was finalizing a $40 billion investment in the ChatGPT maker at a $260 billion pre-money valuation.
+The rise of artificial intelligence applications has created a rush to invest in more data centers and connectivity solutions to support booming demand.
+In this article
+
+
+Follow your favorite stocks
+CREATE FREE ACCOUNT
+SoftBank has fully funded OpenAI commitment of $40 billion, according to sourceswatch now
+VIDEO03:26
+SoftBank has fully funded OpenAI commitment of $40 billion, according to sources
+SoftBank has completed its $40 billion investment commitment to OpenAI, sources told CNBC’s David Faber.
+
+The Japanese investment giant sent over a final $22 billion to $22.5 billion last week, according to sources familiar with the matter, who asked not to be named in order to discuss details of the transaction.
+
+SoftBank had previously invested $7.5 billion in the ChatGPT maker and syndicated another $11 billion with co-investors, the Japanese conglomerate confirmed in a press release, with the final aggregate commitment at $41 billion. The investment takes SoftBank’s stake in the company to around 11%.
+
+CNBC reported in February that the company was finalizing a $40 billion investment in the Sam Altman-run startup at a $260 billion pre-money valuation.
+
+At the time, Faber reported that the funding would be paid out over a 12-to-24-month period. Some money was slated to support OpenAI’s artificial intelligence infrastructure Stargate joint venture with Oracle
+ and SoftBank.
+
+Read more CNBC tech news
+Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality
+Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves
+Softbank to buy data center firm DigitalBridge for $4 billion in AI push
+California’s Ro Khanna faces Silicon Valley backlash after embracing wealth tax
+Companies have been spending big in recent months to build out infrastructure to support a frenzy for AI solutions and growing compute needs.
+
+OpenAI has made more than $1.4 trillion in infrastructure commitments over the next several years, including agreements with chipmakers Nvidia
+, Advanced Micro Devices
+ and Broadcom
+.
+
+Over the years, SoftBank has been betting big on technology and AI companies and was an early investor in chipmaker Nvidia. On Monday, the conglomerate agreed to pay $4 billion for data center investment firm DigitalBridge
+ to strengthen its AI push.
+
+Last month, SoftBank liquidated its entire $5.8 billion stake in major AI beneficiary Nvidia
+.
+
+A different source familiar with the move to sell the stake told CNBC at the time that the sale, combined with other cash sources, would support its OpenAI investment.
+
+The startup, which is reportedly preparing for an initial public offering, has received billions in funding over the years from tech juggernaut Microsoft
+.
+
+Earlier this month, CNBC reported that OpenAI was exploring the potential for a more than $10 billion investment from Amazon
+.
+
+Disney
+ is also a recent backer, following a $1 billion equity investment deal that allows users of OpenAI’s video generator Sora to generate content with licensed characters such as Mickey Mouse.
+
+ 'Better prompts = better results, faster\n' +
+      'Working with v0 is like working with a highly skilled teammate who can build anything you need. v0 is more than just a tool, it’s your building partner. And like with any great collaborator, the quality of what you get depends on how clearly you communicate.\n' +
+      "The more specific you are, the better v0's output becomes. From our testing, good prompts consistently deliver:\n" +
+      'Faster generation time (30-40% faster with less unnecessary code, fewer credits spent)\n' +
+      'Smarter UX decisions (v0 understands intent and optimizes accordingly)\n' +
+      'Cleaner, more maintainable code\n' +
+      'This guide shows you a framework that consistently produces these results.\n' +
+      'Link to headingThe framework: Three inputs that drive great prompts\n' +
+      "After building hundreds of applications ourselves and learning from v0's power users, we’ve noticed that the best prompts always include three core inputs:\n" +
+      'Product surface\n' +
+      'Context of use\n' +
+      'Constraints & taste\n' +
+      "Here's the template:\n" +
+      'Build [product surface: components, data, actions].\n' +
+      'Used by [who],in [what moment],to [what decision or outcome].\n' +
+      'Constraints:- platform / device- visual tone- layout assumptions\n' +
+      "Let's break down each input.\n" +
+      'Link to headingProduct surface\n' +
+      'What specifically are you building?\n' +
+      'List the actual components, features, and data. Not “a dashboard”, but what data it shows, what actions users can take, and what the key sections are.\n' +
+      'Example:\n' +
+      'Dashboard displaying: top 5 performers with names and revenue, team revenue vs quota progress bar, deal pipeline with stages (Leads → Qualified → Demo → Closed), 6-month revenue trend chart.\n' +
+      'When you’re specific about the product surface, v0 doesn’t waste time inventing features you don’t need or missing ones you do.\n' +
+      'Link to headingContext of use\n' +
+      'Who’s using this, and in what moment?\n' +
+      'Be specific about your users and how they interact with the product in real life. Their role, technical comfort level, time constraints, and environment shape how v0 designs the UX.\n' +
+      'Ask yourself:\n' +
+      'Who uses this?\n' +
+      'When do they use it?\n' +
+      'What decision are they trying to make?\n' +
+      'How much time do they have?\n' +
+      'Example:\n' +
+      'Sales managers (non-technical) who check this during morning standups on desktop monitors to quickly spot underperformers and celebrate wins with the team.\n' +
+      'v0 optimizes for assumed usage. If you don’t define the context of use, it will guess.\n' +
+      'Link to headingConstraints & taste\n' +
+      'How should it work and look\n' +
+      'Constraints tell v0 what not to invent.\n' +
+      'Include:\n' +
+      'Style preferences\n' +
+      'Platform or device assumptions\n' +
+      'Layout expectations\n' +
+      'Color systems\n' +
+      'Responsiveness or accessibility needs\n' +
+      'Example:\n' +
+      'Professional but approachable. Use card-based layout with clear hierarchy. Color code: green for on-track, yellow for at-risk, red for below target. Desktop-first since they use large monitors. Make it feel like a real SaaS product.\n' +
+      'v0’s defaults are good. Specific constraints make them great while keeping code cleaner.\n' +
+      'Link to headingShow the difference: Real test results\n' +
+      'I tested this framework by building the same applications with different levels of context. Each test isolates one element to show its impact:\n' +
+      'Link to headingTest 1: The impact of context of use\n' +
+      'Without context of use:\n' +
+      'Build an e-commerce site with product grid, filters, and shopping features.\n' +
+      'v0 chat: https://v0.link/6vSzuSI\n' +
+      'With context of use:\n' +
+      'Fashion e-commerce site targeting millennials (25-35) who browse on mobile during commutes. They compare multiple items quickly before buying. Build a product page with: swipeable image gallery, product title, price, description, size/color selectors, add to cart button. Include minimal header with back button and cart icon. Clean, premium aesthetic.\n' +
+      'v0 chat: https://v0.link/CcOTmsI\n' +
+      'What changed:\n' +
+      'The version with context took 26 seconds longer but delivered a completely functional product. The version without context had:\n' +
+      'Non-functional search (placeholder only)\n' +
+      'Non-functional cart\n' +
+      'NOT responsive\n' +
+      'The version with context had:\n' +
+      'Fully functional search and cart with quantity controls\n' +
+      '100% mobile responsive\n' +
+      'Sophisticated mobile-first design\n' +
+      'Quick view modals and category filters\n' +
+      'The real cost:\n' +
+      'Without context would have required 1-2 more prompts to add the missing functionality, totaling ~5 minutes and ~1.5 credits. Better context saved multiple iterations.\n' +
+      'Link to headingTest 2: The impact of product surface\n' +
+      'Vague product surface:\n' +
+      'Build a user profile page.\n' +
+      'v0 chat: https://v0.link/1Gev1Gi\n' +
+      'Specific product surface:\n' +
+      'Build a user profile page showing: profile photo, display name, username, email, bio, member since date, activity stats (posts, comments, followers), recent activity feed with timestamps, edit profile and settings buttons.\n' +
+      'v0 chat: https://v0.link/690wE6f\n' +
+      'Results:\n' +
+      'Vague: 1m 38s, 595 lines, 0.173 credits\n' +
+      'Specific: 1m 19s, 443 lines, 0.160 credits\n' +
+      '19 seconds faster, 152 fewer lines, lower cost.\n' +
+      'The vague prompt forced v0 to guess. The specific prompt generated exactly what we needed: all requested fields properly structured, activity stats prominent, correct information architecture.\n' +
+      'When the product surface is explicit, v0 doesn’t waste time inventing features you don’t need or missing ones you do.\n' +
+      'Link to headingTest 3: The impact of constraints & taste\n' +
+      'Basic constraints:\n' +
+      'Build a support ticket dashboard. Shows: open tickets, response time, agent performance, recent activity.\n' +
+      'v0 chat: https://v0.link/jrNW2FX\n' +
+      'Detailed constraints:\n' +
+      'Build a support ticket dashboard. Shows: open tickets, response time, agent performance, recent activity.\n' +
+      'Mobile-first design (team leads check this on phones while on the floor).Light theme, high contrast. Color code: red for urgent (>24h), yellow for medium, green for on-time. Maximum3-column layout. Include loading states for real-time data.\n' +
+      'v0 chat: https://v0.link/ZtsFTeb\n' +
+      'Results:\n' +
+      'Basic: 1m 42s, 679 lines, 0.133 credits\n' +
+      'Detailed: 1m 52s, 569 lines, 0.130 credits\n' +
+      'Took 10 seconds longer but generated 110 fewer lines and cost less.\n' +
+      'The difference: basic version "works on mobile" (desktop layout that shrinks). Detailed version is "mobile-first" (designed from the ground up for mobile, single column expanding to 3 max, intentional color coding with red/yellow/green urgency levels, agent status badges, high contrast for outdoor visibility).\n' +
+      "v0's defaults are good. Specific constraints make them great while keeping code cleaner.\n" +
+      'Link to headingIterating on your generations\n' +
+      'Once v0 generates your app, you have two main ways to iterate:\n' +
+      'Prompt for changes: Describe what you want to change, add, or remove. Best for functional changes, adding features, or restructuring layouts.\n' +
+      'Design Mode: Click Design Mode, select any element visually, and adjust properties directly. Faster for quick visual changes like colors, spacing, or typography.\n' +
+      'Use prompts for logic and structure. Use Design Mode for visual tweaks.\n' +
+      'Link to headingQuick reference: Prompt template\n' +
+      "Here's the template again, this time with a fully expanded example:\n" +
+      'Template:\n' +
+      'Build [product surface: components, data, actions].\n' +
+      'Used by [who],in [what moment],to [what decision or outcome].\n' +
+      'Constraints:- platform / device- visual tone- layout assumptions\n' +
+      'Example:\n' +
+      'Build a support dashboard showing: open tickets count,average response time, tickets by priority (high/medium/low),agent performance list with current workload, recent ticket activity feed.\n' +
+      'Used by support team leads (managing 5–10 agents),on their phones while walking the floor,to prevent agent burnout and maintain response-time SLAs.Checked every 30 minutes to identify overloaded agentsand redistribute work.\n' +
+      'Constraints:Mobile-first, light theme, high contrast.Color code by priority: red for urgent, yellow for medium, green for low.Show agent status badges (busy/available).Maximum 2 columns on mobile.\n' +
+      'Ready to build?\n' +
+      "Try it yourself. Next time you use v0, try being more specific. Add context about who's using your creation. Explain why it needs to exist. Describe how it should work.\n" +
+      'Start building\n' +
+      'Link to headingWant to go deeper?\n' +
+      'v0 Documentation - Complete guide to all features\n' +
+      'Design Systems Guide - Learn how to create and use design systems\n' +
+      'Project Instructions - Set up rules that apply to all generations\n' +
+      'v0 Templates - Pre-built starting points for common use cases\n' +
+      'Community Platform - Ask for help, share prompt ideas, and chat about AI projects with the community',

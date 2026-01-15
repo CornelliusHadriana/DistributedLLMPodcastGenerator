@@ -1,0 +1,28 @@
+# Redis and Job Queue
+redis>=5.0.0
+rq>=1.15.0
+
+# FastAPI and Web Framework
+fastapi>=0.100.0
+pydantic>=2.0.0
+uvicorn>=0.23.0
+
+# Database
+pymongo>=4.5.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# HTTP and Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Google APIs (for auth/google_services.py and Gmail integration)
+google-api-python-client>=2.100.0
+google-auth>=2.0.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# Machine Learning / LLM (for LLM worker service)
+torch>=2.0.0
+transformers>=4.30.0

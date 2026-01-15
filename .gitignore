@@ -1,0 +1,10 @@
+.env
+.venv/
+auth/token_files
+credentials/*.json
+!requirements.json
+!pacakge.json
+**dataset_generator.py
+__pycache__/
+*.pyc
+*.pyo

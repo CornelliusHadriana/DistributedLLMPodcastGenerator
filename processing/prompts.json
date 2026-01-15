@@ -1,0 +1,16 @@
+{
+    "prompts": [
+        {
+            "prompt_name" : "script_prompt",
+            "text_file" : "script_prompt.txt"
+        },
+        {
+            "prompt_name" : "chunk_summarize_prompt",
+            "text_file" : "chunk_summarize_prompt.txt"
+        },
+        {
+            "prompt_name" : "reassemble_article_prompt",
+            "text_file" : "reassemble_article_prompt.txt"
+        }
+    ]
+}
