@@ -41,26 +41,30 @@ async def get_episode(article_id: str):
                 detail=f"Article not found: {article_id}"
             )
         
+        pipeline = article.get("pipeline_status", {})
+        
         # Extract episode data
-        script = article.get("script")
-        audio_url = article.get("audio_url")
-        status = article.get("status", "unknown")
-        published_at = article.get("published_at")
+
+        # Legacy version - depreciate
+        # script = article.get("script")
+        # audio_url = article.get("audio_url")
+        # status = article.get("status", "unknown")
+        # published_at = article.get("published_at")
         
         # Check if episode is ready (has script and audio)
-        if script and audio_url:
+        if pipeline.get("publish") == "completed":
             episode_status = "published"
-        elif script:
-            episode_status = "script_ready"
+        elif "failed" in pipeline.values():
+            episode_status = "failed"
         else:
-            episode_status = status
+            episode_status = "in_progress"
         
         return EpisodeResponse(
             article_id=article_id,
-            script=script,
-            audio_url=audio_url,
+            script=article.get("script"),
+            audio_url=article.get("audio_url"),
             status=episode_status,
-            published_at=published_at
+            published_at=article.get("published_at")
         )
         
     except HTTPException:
